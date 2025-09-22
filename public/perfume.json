@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 1,
+        "name": "Eros 1",
+        "brand": "Gucci",
+        "price": 134.51,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Rose",
+            "Lavender",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Oud"
+        ],
+        "base_notes": [
+            "Amber",
+            "Rose"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.8,
+        "in_stock": true,
+        "launch_year": 2008
+    },
+    {
+        "id": 2,
+        "name": "Eros 2",
+        "brand": "YSL",
+        "price": 160.13,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Lemon",
+            "Tonka Bean",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Jasmine",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.5,
+        "in_stock": true,
+        "launch_year": 1991
+    },
+    {
+        "id": 3,
+        "name": "Luna Rossa 3",
+        "brand": "Dior",
+        "price": 205.58,
+        "size_ml": 50,
+        "gender": "Male",
+        "top_notes": [
+            "Jasmine",
+            "Vetiver",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Amber"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.8,
+        "in_stock": false,
+        "launch_year": 2007
+    },
+    {
+        "id": 4,
+        "name": "La Nuit 4",
+        "brand": "Tom Ford",
+        "price": 348.6,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Vanilla",
+            "Tonka Bean",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Rose"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.0,
+        "in_stock": false,
+        "launch_year": 2021
+    },
+    {
+        "id": 5,
+        "name": "Royal Oud 5",
+        "brand": "YSL",
+        "price": 335.8,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Vetiver",
+            "Amber",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Musk",
+            "Sandalwood"
+        ],
+        "base_notes": [
+            "Vanilla",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": true,
+        "launch_year": 2015
+    },
+    {
+        "id": 6,
+        "name": "Eros 6",
+        "brand": "Tom Ford",
+        "price": 273.99,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Cedar",
+            "Patchouli",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Patchouli",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Lavender",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.8,
+        "in_stock": true,
+        "launch_year": 2020
+    },
+    {
+        "id": 7,
+        "name": "Sauvage 7",
+        "brand": "Dior",
+        "price": 211.36,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lavender",
+            "Pink Pepper",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": true,
+        "launch_year": 1997
+    },
+    {
+        "id": 8,
+        "name": "La Nuit 8",
+        "brand": "Armani",
+        "price": 208.87,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Bergamot",
+            "Rose",
+            "Musk"
+        ],
+        "middle_notes": [
+            "Musk",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Vanilla",
+            "Vetiver"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.9,
+        "in_stock": true,
+        "launch_year": 1991
+    },
+    {
+        "id": 9,
+        "name": "Bleu de Chanel 9",
+        "brand": "Armani",
+        "price": 173.95,
+        "size_ml": 100,
+        "gender": "Unisex",
+        "top_notes": [
+            "Amber",
+            "Oud",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Tonka Bean"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": true,
+        "launch_year": 1998
+    },
+    {
+        "id": 10,
+        "name": "Mr. Burberry 10",
+        "brand": "Armani",
+        "price": 72.28,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Cedar",
+            "Lavender",
+            "Patchouli"
+        ],
+        "middle_notes": [
+            "Patchouli",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.2,
+        "in_stock": false,
+        "launch_year": 2003
+    },
+    {
+        "id": 11,
+        "name": "Luna Rossa 11",
+        "brand": "Chanel",
+        "price": 262.99,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Lemon",
+            "Musk",
+            "Jasmine"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Sandalwood",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": false,
+        "launch_year": 2002
+    },
+    {
+        "id": 12,
+        "name": "Mr. Burberry 12",
+        "brand": "Versace",
+        "price": 100.69,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lemon",
+            "Oud",
+            "Pink Pepper"
+        ],
+        "middle_notes": [
+            "Rose",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": true,
+        "launch_year": 1996
+    },
+    {
+        "id": 13,
+        "name": "Bleu de Chanel 13",
+        "brand": "Creed",
+        "price": 343.49,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Lavender",
+            "Oud",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Oud"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": true,
+        "launch_year": 2004
+    },
+    {
+        "id": 14,
+        "name": "Bleu de Chanel 14",
+        "brand": "Creed",
+        "price": 53.74,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Musk",
+            "Sandalwood",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Lavender",
+            "Amber"
+        ],
+        "base_notes": [
+            "Amber",
+            "Lavender"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": false,
+        "launch_year": 2022
+    },
+    {
+        "id": 15,
+        "name": "Royal Oud 15",
+        "brand": "Creed",
+        "price": 92.38,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Lemon",
+            "Patchouli",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Musk"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": false,
+        "launch_year": 1992
+    },
+    {
+        "id": 16,
+        "name": "Mr. Burberry 16",
+        "brand": "Prada",
+        "price": 198.72,
+        "size_ml": 125,
+        "gender": "Male",
+        "top_notes": [
+            "Patchouli",
+            "Lemon",
+            "Sandalwood"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Vanilla"
+        ],
+        "base_notes": [
+            "Vanilla",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.0,
+        "in_stock": false,
+        "launch_year": 2005
+    },
+    {
+        "id": 17,
+        "name": "Royal Oud 17",
+        "brand": "Chanel",
+        "price": 100.93,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Sandalwood",
+            "Rose",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Sandalwood"
+        ],
+        "base_notes": [
+            "Amber",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.9,
+        "in_stock": true,
+        "launch_year": 2007
+    },
+    {
+        "id": 18,
+        "name": "Luna Rossa 18",
+        "brand": "Prada",
+        "price": 87.19,
+        "size_ml": 125,
+        "gender": "Female",
+        "top_notes": [
+            "Cedar",
+            "Oud",
+            "Jasmine"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Pink Pepper"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": false,
+        "launch_year": 1995
+    },
+    {
+        "id": 19,
+        "name": "Ombre Leather 19",
+        "brand": "Tom Ford",
+        "price": 243.5,
+        "size_ml": 125,
+        "gender": "Male",
+        "top_notes": [
+            "Pink Pepper",
+            "Lemon",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Rose",
+            "Musk"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": false,
+        "launch_year": 1998
+    },
+    {
+        "id": 20,
+        "name": "Guilty 20",
+        "brand": "Gucci",
+        "price": 268.22,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Bergamot",
+            "Tonka Bean",
+            "Musk"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Rose"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Lavender"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": true,
+        "launch_year": 2014
+    },
+    {
+        "id": 21,
+        "name": "Sauvage 21",
+        "brand": "Chanel",
+        "price": 183.63,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Sandalwood",
+            "Lemon",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Rose",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.8,
+        "in_stock": false,
+        "launch_year": 2020
+    },
+    {
+        "id": 22,
+        "name": "Ombre Leather 22",
+        "brand": "Creed",
+        "price": 179.69,
+        "size_ml": 100,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lavender",
+            "Vanilla",
+            "Sandalwood"
+        ],
+        "middle_notes": [
+            "Vanilla",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": false,
+        "launch_year": 1997
+    },
+    {
+        "id": 23,
+        "name": "Sauvage 23",
+        "brand": "Burberry",
+        "price": 314.49,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Tonka Bean",
+            "Vanilla",
+            "Vetiver"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Pink Pepper"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.8,
+        "in_stock": true,
+        "launch_year": 2019
+    },
+    {
+        "id": 24,
+        "name": "Guilty 24",
+        "brand": "Burberry",
+        "price": 180.83,
+        "size_ml": 100,
+        "gender": "Unisex",
+        "top_notes": [
+            "Amber",
+            "Jasmine",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": false,
+        "launch_year": 2007
+    },
+    {
+        "id": 25,
+        "name": "Mr. Burberry 25",
+        "brand": "Gucci",
+        "price": 187.1,
+        "size_ml": 100,
+        "gender": "Unisex",
+        "top_notes": [
+            "Vetiver",
+            "Rose",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Musk"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": false,
+        "launch_year": 1994
+    },
+    {
+        "id": 26,
+        "name": "Guilty 26",
+        "brand": "Tom Ford",
+        "price": 324.47,
+        "size_ml": 100,
+        "gender": "Male",
+        "top_notes": [
+            "Tonka Bean",
+            "Vetiver",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Vanilla",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": false,
+        "launch_year": 2004
+    },
+    {
+        "id": 27,
+        "name": "Sauvage 27",
+        "brand": "Versace",
+        "price": 333.6,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Amber",
+            "Lemon",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Lavender",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": false,
+        "launch_year": 1997
+    },
+    {
+        "id": 28,
+        "name": "Sauvage 28",
+        "brand": "Burberry",
+        "price": 199.85,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Lemon",
+            "Patchouli",
+            "Sandalwood"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Pink Pepper"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Rose"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": true,
+        "launch_year": 2023
+    },
+    {
+        "id": 29,
+        "name": "Mr. Burberry 29",
+        "brand": "Dior",
+        "price": 320.72,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Rose",
+            "Lavender",
+            "Patchouli"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Musk",
+            "Vetiver"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.3,
+        "in_stock": false,
+        "launch_year": 2002
+    },
+    {
+        "id": 30,
+        "name": "Acqua di Gio 30",
+        "brand": "Burberry",
+        "price": 219.25,
+        "size_ml": 100,
+        "gender": "Unisex",
+        "top_notes": [
+            "Tonka Bean",
+            "Vanilla",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Amber"
+        ],
+        "base_notes": [
+            "Lavender",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.1,
+        "in_stock": false,
+        "launch_year": 1998
+    },
+    {
+        "id": 31,
+        "name": "Acqua di Gio 31",
+        "brand": "Dior",
+        "price": 198.57,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Cedar",
+            "Vetiver",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Lemon",
+            "Vetiver"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": true,
+        "launch_year": 2004
+    },
+    {
+        "id": 32,
+        "name": "Royal Oud 32",
+        "brand": "YSL",
+        "price": 78.51,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Lavender",
+            "Lemon",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Jasmine",
+            "Cedar"
+        ],
+        "base_notes": [
+            "Musk",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": true,
+        "launch_year": 2017
+    },
+    {
+        "id": 33,
+        "name": "Sauvage 33",
+        "brand": "Versace",
+        "price": 346.12,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Amber",
+            "Cedar",
+            "Patchouli"
+        ],
+        "middle_notes": [
+            "Oud",
+            "Sandalwood"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Tonka Bean"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": false,
+        "launch_year": 1998
+    },
+    {
+        "id": 34,
+        "name": "Royal Oud 34",
+        "brand": "Burberry",
+        "price": 147.59,
+        "size_ml": 50,
+        "gender": "Male",
+        "top_notes": [
+            "Oud",
+            "Bergamot",
+            "Jasmine"
+        ],
+        "middle_notes": [
+            "Rose",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Rose",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": true,
+        "launch_year": 1995
+    },
+    {
+        "id": 35,
+        "name": "Mr. Burberry 35",
+        "brand": "Dior",
+        "price": 281.51,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Musk",
+            "Jasmine",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Lavender",
+            "Musk"
+        ],
+        "base_notes": [
+            "Jasmine",
+            "Vetiver"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": false,
+        "launch_year": 2001
+    },
+    {
+        "id": 36,
+        "name": "Acqua di Gio 36",
+        "brand": "Creed",
+        "price": 227.66,
+        "size_ml": 75,
+        "gender": "Unisex",
+        "top_notes": [
+            "Tonka Bean",
+            "Rose",
+            "Musk"
+        ],
+        "middle_notes": [
+            "Jasmine",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Rose",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.0,
+        "in_stock": false,
+        "launch_year": 2004
+    },
+    {
+        "id": 37,
+        "name": "Sauvage 37",
+        "brand": "Gucci",
+        "price": 197.27,
+        "size_ml": 75,
+        "gender": "Unisex",
+        "top_notes": [
+            "Amber",
+            "Bergamot",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Musk",
+            "Vetiver"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.1,
+        "in_stock": true,
+        "launch_year": 1997
+    },
+    {
+        "id": 38,
+        "name": "Acqua di Gio 38",
+        "brand": "Armani",
+        "price": 108.47,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Bergamot",
+            "Amber",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Oud"
+        ],
+        "base_notes": [
+            "Amber",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": false,
+        "launch_year": 2006
+    },
+    {
+        "id": 39,
+        "name": "Luna Rossa 39",
+        "brand": "Armani",
+        "price": 205.12,
+        "size_ml": 100,
+        "gender": "Female",
+        "top_notes": [
+            "Oud",
+            "Jasmine",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Rose"
+        ],
+        "base_notes": [
+            "Sandalwood",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.1,
+        "in_stock": false,
+        "launch_year": 2001
+    },
+    {
+        "id": 40,
+        "name": "Eros 40",
+        "brand": "Versace",
+        "price": 238.61,
+        "size_ml": 125,
+        "gender": "Unisex",
+        "top_notes": [
+            "Tonka Bean",
+            "Amber",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Lavender",
+            "Vanilla"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Vanilla"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": true,
+        "launch_year": 2017
+    },
+    {
+        "id": 41,
+        "name": "Mr. Burberry 41",
+        "brand": "Armani",
+        "price": 310.68,
+        "size_ml": 125,
+        "gender": "Unisex",
+        "top_notes": [
+            "Amber",
+            "Tonka Bean",
+            "Pink Pepper"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Rose"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.9,
+        "in_stock": true,
+        "launch_year": 2001
+    },
+    {
+        "id": 42,
+        "name": "Ombre Leather 42",
+        "brand": "Versace",
+        "price": 335.98,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Vanilla",
+            "Lemon",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Rose"
+        ],
+        "base_notes": [
+            "Sandalwood",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": true,
+        "launch_year": 1990
+    },
+    {
+        "id": 43,
+        "name": "La Nuit 43",
+        "brand": "Armani",
+        "price": 217.38,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Tonka Bean",
+            "Lemon",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Rose",
+            "Lavender"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.4,
+        "in_stock": false,
+        "launch_year": 1993
+    },
+    {
+        "id": 44,
+        "name": "Luna Rossa 44",
+        "brand": "Versace",
+        "price": 324.84,
+        "size_ml": 125,
+        "gender": "Unisex",
+        "top_notes": [
+            "Rose",
+            "Bergamot",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Musk"
+        ],
+        "base_notes": [
+            "Rose",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.2,
+        "in_stock": true,
+        "launch_year": 2006
+    },
+    {
+        "id": 45,
+        "name": "Sauvage 45",
+        "brand": "Dior",
+        "price": 251.45,
+        "size_ml": 75,
+        "gender": "Unisex",
+        "top_notes": [
+            "Rose",
+            "Pink Pepper",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Rose"
+        ],
+        "base_notes": [
+            "Amber",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": true,
+        "launch_year": 1990
+    },
+    {
+        "id": 46,
+        "name": "La Nuit 46",
+        "brand": "Prada",
+        "price": 257.87,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lemon",
+            "Vetiver",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Musk",
+            "Rose"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": false,
+        "launch_year": 2015
+    },
+    {
+        "id": 47,
+        "name": "Guilty 47",
+        "brand": "Burberry",
+        "price": 344.5,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Vanilla",
+            "Lemon",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Jasmine"
+        ],
+        "base_notes": [
+            "Lemon",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": true,
+        "launch_year": 2010
+    },
+    {
+        "id": 48,
+        "name": "Guilty 48",
+        "brand": "Armani",
+        "price": 143.26,
+        "size_ml": 50,
+        "gender": "Male",
+        "top_notes": [
+            "Tonka Bean",
+            "Musk",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Rose",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": true,
+        "launch_year": 2006
+    },
+    {
+        "id": 49,
+        "name": "Acqua di Gio 49",
+        "brand": "Creed",
+        "price": 316.56,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Sandalwood",
+            "Vetiver",
+            "Patchouli"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Musk"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.4,
+        "in_stock": false,
+        "launch_year": 2009
+    },
+    {
+        "id": 50,
+        "name": "Luna Rossa 50",
+        "brand": "YSL",
+        "price": 79.84,
+        "size_ml": 100,
+        "gender": "Female",
+        "top_notes": [
+            "Jasmine",
+            "Vetiver",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Tonka Bean"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.3,
+        "in_stock": false,
+        "launch_year": 1993
+    },
+    {
+        "id": 51,
+        "name": "La Nuit 51",
+        "brand": "Burberry",
+        "price": 270.65,
+        "size_ml": 125,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lemon",
+            "Tonka Bean",
+            "Sandalwood"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Oud"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": true,
+        "launch_year": 1996
+    },
+    {
+        "id": 52,
+        "name": "Bleu de Chanel 52",
+        "brand": "Versace",
+        "price": 314.82,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Lavender",
+            "Pink Pepper",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Pink Pepper"
+        ],
+        "base_notes": [
+            "Lavender",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": false,
+        "launch_year": 2009
+    },
+    {
+        "id": 53,
+        "name": "Bleu de Chanel 53",
+        "brand": "Prada",
+        "price": 156.66,
+        "size_ml": 50,
+        "gender": "Male",
+        "top_notes": [
+            "Cedar",
+            "Sandalwood",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Oud",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": true,
+        "launch_year": 2014
+    },
+    {
+        "id": 54,
+        "name": "Guilty 54",
+        "brand": "Armani",
+        "price": 170.58,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Cedar",
+            "Pink Pepper",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Sandalwood"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 5.0,
+        "in_stock": false,
+        "launch_year": 2020
+    },
+    {
+        "id": 55,
+        "name": "La Nuit 55",
+        "brand": "Prada",
+        "price": 294.23,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Rose",
+            "Amber",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Bergamot",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.4,
+        "in_stock": false,
+        "launch_year": 1999
+    },
+    {
+        "id": 56,
+        "name": "Sauvage 56",
+        "brand": "Gucci",
+        "price": 318.14,
+        "size_ml": 125,
+        "gender": "Male",
+        "top_notes": [
+            "Amber",
+            "Rose",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Musk",
+            "Rose"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": true,
+        "launch_year": 2005
+    },
+    {
+        "id": 57,
+        "name": "Bleu de Chanel 57",
+        "brand": "Creed",
+        "price": 150.15,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Cedar",
+            "Oud",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Oud",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Jasmine",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.5,
+        "in_stock": false,
+        "launch_year": 1995
+    },
+    {
+        "id": 58,
+        "name": "Bleu de Chanel 58",
+        "brand": "Armani",
+        "price": 52.29,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Amber",
+            "Sandalwood",
+            "Pink Pepper"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Pink Pepper"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Tonka Bean"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.6,
+        "in_stock": false,
+        "launch_year": 2015
+    },
+    {
+        "id": 59,
+        "name": "Acqua di Gio 59",
+        "brand": "Burberry",
+        "price": 194.08,
+        "size_ml": 100,
+        "gender": "Male",
+        "top_notes": [
+            "Lavender",
+            "Musk",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Vanilla"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": true,
+        "launch_year": 2003
+    },
+    {
+        "id": 60,
+        "name": "Royal Oud 60",
+        "brand": "Armani",
+        "price": 68.31,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Tonka Bean",
+            "Jasmine",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Amber"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.6,
+        "in_stock": false,
+        "launch_year": 1990
+    },
+    {
+        "id": 61,
+        "name": "Acqua di Gio 61",
+        "brand": "Dior",
+        "price": 92.68,
+        "size_ml": 125,
+        "gender": "Female",
+        "top_notes": [
+            "Patchouli",
+            "Cedar",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Jasmine"
+        ],
+        "base_notes": [
+            "Jasmine",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 5.0,
+        "in_stock": false,
+        "launch_year": 2012
+    },
+    {
+        "id": 62,
+        "name": "Acqua di Gio 62",
+        "brand": "Dior",
+        "price": 131.75,
+        "size_ml": 100,
+        "gender": "Male",
+        "top_notes": [
+            "Vetiver",
+            "Rose",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Patchouli",
+            "Amber"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": true,
+        "launch_year": 2018
+    },
+    {
+        "id": 63,
+        "name": "Bleu de Chanel 63",
+        "brand": "Gucci",
+        "price": 118.64,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Oud",
+            "Patchouli",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Oud",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.1,
+        "in_stock": true,
+        "launch_year": 2009
+    },
+    {
+        "id": 64,
+        "name": "La Nuit 64",
+        "brand": "Dior",
+        "price": 283.28,
+        "size_ml": 125,
+        "gender": "Female",
+        "top_notes": [
+            "Lavender",
+            "Jasmine",
+            "Sandalwood"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Rose",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": false,
+        "launch_year": 1998
+    },
+    {
+        "id": 65,
+        "name": "Sauvage 65",
+        "brand": "Creed",
+        "price": 167.67,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Bergamot",
+            "Sandalwood",
+            "Patchouli"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Musk",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": true,
+        "launch_year": 1992
+    },
+    {
+        "id": 66,
+        "name": "Sauvage 66",
+        "brand": "Dior",
+        "price": 155.16,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Bergamot",
+            "Vetiver",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Cedar",
+            "Amber"
+        ],
+        "base_notes": [
+            "Musk",
+            "Patchouli"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": true,
+        "launch_year": 2001
+    },
+    {
+        "id": 67,
+        "name": "Acqua di Gio 67",
+        "brand": "Chanel",
+        "price": 147.56,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Sandalwood",
+            "Bergamot",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Musk",
+            "Tonka Bean"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.6,
+        "in_stock": false,
+        "launch_year": 1990
+    },
+    {
+        "id": 68,
+        "name": "Bleu de Chanel 68",
+        "brand": "Prada",
+        "price": 208.06,
+        "size_ml": 125,
+        "gender": "Female",
+        "top_notes": [
+            "Sandalwood",
+            "Lavender",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Musk",
+            "Sandalwood"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": false,
+        "launch_year": 2020
+    },
+    {
+        "id": 69,
+        "name": "Bleu de Chanel 69",
+        "brand": "YSL",
+        "price": 228.33,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Vanilla",
+            "Bergamot",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Lemon",
+            "Vanilla"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.3,
+        "in_stock": false,
+        "launch_year": 2011
+    },
+    {
+        "id": 70,
+        "name": "Bleu de Chanel 70",
+        "brand": "Gucci",
+        "price": 286.68,
+        "size_ml": 50,
+        "gender": "Male",
+        "top_notes": [
+            "Bergamot",
+            "Rose",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Rose",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": false,
+        "launch_year": 1994
+    },
+    {
+        "id": 71,
+        "name": "La Nuit 71",
+        "brand": "Dior",
+        "price": 85.54,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Vanilla",
+            "Jasmine",
+            "Sandalwood"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Pink Pepper"
+        ],
+        "base_notes": [
+            "Vanilla",
+            "Jasmine"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": false,
+        "launch_year": 1991
+    },
+    {
+        "id": 72,
+        "name": "Eros 72",
+        "brand": "Chanel",
+        "price": 232.25,
+        "size_ml": 100,
+        "gender": "Female",
+        "top_notes": [
+            "Amber",
+            "Pink Pepper",
+            "Lemon"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Vanilla",
+            "Vetiver"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.0,
+        "in_stock": false,
+        "launch_year": 2019
+    },
+    {
+        "id": 73,
+        "name": "Eros 73",
+        "brand": "Versace",
+        "price": 298.65,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Patchouli",
+            "Vetiver",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Vanilla",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Lavender"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.2,
+        "in_stock": false,
+        "launch_year": 2006
+    },
+    {
+        "id": 74,
+        "name": "Eros 74",
+        "brand": "Versace",
+        "price": 221.46,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Tonka Bean",
+            "Cedar",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.1,
+        "in_stock": true,
+        "launch_year": 2004
+    },
+    {
+        "id": 75,
+        "name": "Mr. Burberry 75",
+        "brand": "Burberry",
+        "price": 176.84,
+        "size_ml": 100,
+        "gender": "Female",
+        "top_notes": [
+            "Sandalwood",
+            "Pink Pepper",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Vanilla",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Musk",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.5,
+        "in_stock": false,
+        "launch_year": 2023
+    },
+    {
+        "id": 76,
+        "name": "Mr. Burberry 76",
+        "brand": "Versace",
+        "price": 278.61,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Sandalwood",
+            "Cedar",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Musk"
+        ],
+        "base_notes": [
+            "Pink Pepper",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": true,
+        "launch_year": 2012
+    },
+    {
+        "id": 77,
+        "name": "Mr. Burberry 77",
+        "brand": "Burberry",
+        "price": 266.15,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Vetiver",
+            "Tonka Bean",
+            "Bergamot"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Lemon",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.0,
+        "in_stock": false,
+        "launch_year": 1999
+    },
+    {
+        "id": 78,
+        "name": "Ombre Leather 78",
+        "brand": "Gucci",
+        "price": 343.15,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Bergamot",
+            "Rose",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Tonka Bean"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": true,
+        "launch_year": 2005
+    },
+    {
+        "id": 79,
+        "name": "Sauvage 79",
+        "brand": "Chanel",
+        "price": 193.66,
+        "size_ml": 75,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lemon",
+            "Rose",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Oud"
+        ],
+        "base_notes": [
+            "Oud",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.4,
+        "in_stock": false,
+        "launch_year": 2016
+    },
+    {
+        "id": 80,
+        "name": "Acqua di Gio 80",
+        "brand": "Tom Ford",
+        "price": 275.96,
+        "size_ml": 75,
+        "gender": "Male",
+        "top_notes": [
+            "Rose",
+            "Sandalwood",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Vanilla",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 5.0,
+        "in_stock": false,
+        "launch_year": 2022
+    },
+    {
+        "id": 81,
+        "name": "Bleu de Chanel 81",
+        "brand": "Creed",
+        "price": 157.54,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Amber",
+            "Tonka Bean",
+            "Vetiver"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.7,
+        "in_stock": false,
+        "launch_year": 2001
+    },
+    {
+        "id": 82,
+        "name": "Royal Oud 82",
+        "brand": "Chanel",
+        "price": 336.78,
+        "size_ml": 125,
+        "gender": "Unisex",
+        "top_notes": [
+            "Tonka Bean",
+            "Vetiver",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Amber",
+            "Rose"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": false,
+        "launch_year": 2014
+    },
+    {
+        "id": 83,
+        "name": "Royal Oud 83",
+        "brand": "Creed",
+        "price": 215.36,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Cedar",
+            "Lavender",
+            "Vanilla"
+        ],
+        "middle_notes": [
+            "Lavender",
+            "Rose"
+        ],
+        "base_notes": [
+            "Lemon",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": true,
+        "launch_year": 2019
+    },
+    {
+        "id": 84,
+        "name": "Guilty 84",
+        "brand": "Dior",
+        "price": 184.77,
+        "size_ml": 75,
+        "gender": "Female",
+        "top_notes": [
+            "Amber",
+            "Tonka Bean",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Patchouli",
+            "Musk"
+        ],
+        "base_notes": [
+            "Patchouli",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 5.0,
+        "in_stock": true,
+        "launch_year": 2002
+    },
+    {
+        "id": 85,
+        "name": "Guilty 85",
+        "brand": "Creed",
+        "price": 267.15,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Patchouli",
+            "Musk",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Jasmine",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.2,
+        "in_stock": true,
+        "launch_year": 1996
+    },
+    {
+        "id": 86,
+        "name": "Mr. Burberry 86",
+        "brand": "Chanel",
+        "price": 271.93,
+        "size_ml": 150,
+        "gender": "Male",
+        "top_notes": [
+            "Lemon",
+            "Vanilla",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Tonka Bean"
+        ],
+        "base_notes": [
+            "Musk",
+            "Vanilla"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.2,
+        "in_stock": false,
+        "launch_year": 2004
+    },
+    {
+        "id": 87,
+        "name": "La Nuit 87",
+        "brand": "Dior",
+        "price": 258.37,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Vanilla",
+            "Oud",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Tonka Bean"
+        ],
+        "base_notes": [
+            "Rose",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": false,
+        "launch_year": 2001
+    },
+    {
+        "id": 88,
+        "name": "La Nuit 88",
+        "brand": "Gucci",
+        "price": 84.81,
+        "size_ml": 75,
+        "gender": "Unisex",
+        "top_notes": [
+            "Bergamot",
+            "Vetiver",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Rose",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Rose",
+            "Cedar"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.6,
+        "in_stock": true,
+        "launch_year": 2020
+    },
+    {
+        "id": 89,
+        "name": "Eros 89",
+        "brand": "Chanel",
+        "price": 131.15,
+        "size_ml": 100,
+        "gender": "Unisex",
+        "top_notes": [
+            "Sandalwood",
+            "Jasmine",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Jasmine",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Amber",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.6,
+        "in_stock": true,
+        "launch_year": 2007
+    },
+    {
+        "id": 90,
+        "name": "Sauvage 90",
+        "brand": "Versace",
+        "price": 263.53,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Tonka Bean",
+            "Lavender",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Pink Pepper",
+            "Jasmine"
+        ],
+        "base_notes": [
+            "Cedar",
+            "Amber"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.5,
+        "in_stock": false,
+        "launch_year": 2003
+    },
+    {
+        "id": 91,
+        "name": "Acqua di Gio 91",
+        "brand": "Dior",
+        "price": 98.49,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Cedar",
+            "Lemon",
+            "Jasmine"
+        ],
+        "middle_notes": [
+            "Patchouli",
+            "Lemon"
+        ],
+        "base_notes": [
+            "Oud",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.9,
+        "in_stock": true,
+        "launch_year": 2009
+    },
+    {
+        "id": 92,
+        "name": "Acqua di Gio 92",
+        "brand": "Tom Ford",
+        "price": 115.16,
+        "size_ml": 150,
+        "gender": "Unisex",
+        "top_notes": [
+            "Lavender",
+            "Oud",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Vanilla",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.6,
+        "in_stock": true,
+        "launch_year": 2007
+    },
+    {
+        "id": 93,
+        "name": "Luna Rossa 93",
+        "brand": "Prada",
+        "price": 176.73,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Vetiver",
+            "Pink Pepper",
+            "Cedar"
+        ],
+        "middle_notes": [
+            "Bergamot",
+            "Cedar"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Vanilla"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.7,
+        "in_stock": false,
+        "launch_year": 2018
+    },
+    {
+        "id": 94,
+        "name": "Ombre Leather 94",
+        "brand": "Chanel",
+        "price": 126.26,
+        "size_ml": 50,
+        "gender": "Female",
+        "top_notes": [
+            "Pink Pepper",
+            "Cedar",
+            "Rose"
+        ],
+        "middle_notes": [
+            "Amber",
+            "Rose"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Sandalwood"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.8,
+        "in_stock": false,
+        "launch_year": 1990
+    },
+    {
+        "id": 95,
+        "name": "La Nuit 95",
+        "brand": "Chanel",
+        "price": 197.83,
+        "size_ml": 125,
+        "gender": "Male",
+        "top_notes": [
+            "Patchouli",
+            "Jasmine",
+            "Lavender"
+        ],
+        "middle_notes": [
+            "Sandalwood",
+            "Vetiver"
+        ],
+        "base_notes": [
+            "Rose",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.4,
+        "in_stock": true,
+        "launch_year": 1993
+    },
+    {
+        "id": 96,
+        "name": "Luna Rossa 96",
+        "brand": "Tom Ford",
+        "price": 110.36,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Jasmine",
+            "Cedar",
+            "Amber"
+        ],
+        "middle_notes": [
+            "Oud",
+            "Musk"
+        ],
+        "base_notes": [
+            "Rose",
+            "Lavender"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.3,
+        "in_stock": true,
+        "launch_year": 2018
+    },
+    {
+        "id": 97,
+        "name": "Acqua di Gio 97",
+        "brand": "Armani",
+        "price": 320.64,
+        "size_ml": 125,
+        "gender": "Male",
+        "top_notes": [
+            "Sandalwood",
+            "Oud",
+            "Tonka Bean"
+        ],
+        "middle_notes": [
+            "Vetiver",
+            "Tonka Bean"
+        ],
+        "base_notes": [
+            "Vetiver",
+            "Musk"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 3.6,
+        "in_stock": true,
+        "launch_year": 2003
+    },
+    {
+        "id": 98,
+        "name": "La Nuit 98",
+        "brand": "Chanel",
+        "price": 254.95,
+        "size_ml": 150,
+        "gender": "Female",
+        "top_notes": [
+            "Tonka Bean",
+            "Vanilla",
+            "Patchouli"
+        ],
+        "middle_notes": [
+            "Lemon",
+            "Patchouli"
+        ],
+        "base_notes": [
+            "Tonka Bean",
+            "Lemon"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.0,
+        "in_stock": true,
+        "launch_year": 2015
+    },
+    {
+        "id": 99,
+        "name": "Sauvage 99",
+        "brand": "Gucci",
+        "price": 195.18,
+        "size_ml": 50,
+        "gender": "Unisex",
+        "top_notes": [
+            "Vetiver",
+            "Rose",
+            "Oud"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Bergamot"
+        ],
+        "base_notes": [
+            "Musk",
+            "Bergamot"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.4,
+        "in_stock": true,
+        "launch_year": 2022
+    },
+    {
+        "id": 100,
+        "name": "Sauvage 100",
+        "brand": "Gucci",
+        "price": 287.72,
+        "size_ml": 50,
+        "gender": "Male",
+        "top_notes": [
+            "Tonka Bean",
+            "Rose",
+            "Musk"
+        ],
+        "middle_notes": [
+            "Tonka Bean",
+            "Lavender"
+        ],
+        "base_notes": [
+            "Jasmine",
+            "Oud"
+        ],
+        "description": "A unique fragrance blending fresh, woody and floral notes.",
+        "rating": 4.3,
+        "in_stock": false,
+        "launch_year": 2013
+    }
+]
