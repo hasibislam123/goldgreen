@@ -1,6 +1,8 @@
 import {  } from 'react'
 import Navbar from './componet/navbar/Navbar'
 import Banner from './componet/Banner/Banner'
+import Herosection from './componet/herosection/herosection'
+import Cart from './componet/Cart-componet/cart'
 
 
 function App() {
@@ -13,6 +15,11 @@ function App() {
 
       {/* Banner    */}
         <Banner></Banner>
+
+      {/* heroSection   */}
+      <Herosection></Herosection>
+
+      <Cart></Cart>
       
     </>
   )
