@@ -20,75 +20,75 @@ const Banner = () => {
     </div>
   </div>
 
-    <div class="carousel w-full ">
-  <div id="slide1" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co.com/5hGsrbFy/ash-edmonds-gyz-H19-KIv-IQ-unsplash-1.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide10" class="btn btn-circle">❮</a>
-      <a href="#slide2" class="btn btn-circle">❯</a>
+    <div className="carousel w-full ">
+  <div id="slide1" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co.com/5hGsrbFy/ash-edmonds-gyz-H19-KIv-IQ-unsplash-1.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide10" className="btn btn-circle">❮</a>
+      <a href="#slide2" className="btn btn-circle">❯</a>
     </div>
   </div> 
-  <div id="slide2" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co/VpTKC6DW/eve-maier-b-G7-JSKq5-W5-E-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide1" class="btn btn-circle">❮</a>
-      <a href="#slide3" class="btn btn-circle">❯</a>
+  <div id="slide2" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co/VpTKC6DW/eve-maier-b-G7-JSKq5-W5-E-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide1" className="btn btn-circle">❮</a>
+      <a href="#slide3" className="btn btn-circle">❯</a>
     </div>
   </div> 
-  <div id="slide3" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co/DDp4XybQ/maxim-lozyanko-q-Fsxwpo-DIB4-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide2" class="btn btn-circle">❮</a>
-      <a href="#slide4" class="btn btn-circle">❯</a>
+  <div id="slide3" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co/DDp4XybQ/maxim-lozyanko-q-Fsxwpo-DIB4-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide2" className="btn btn-circle">❮</a>
+      <a href="#slide4" className="btn btn-circle">❯</a>
     </div>
   </div> 
-  <div id="slide4" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co/JWWNWxCZ/rosy-h-nguyen-5-Hrl-EGTsa-B4-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide3" class="btn btn-circle">❮</a>
-      <a href="#slide5" class="btn btn-circle">❯</a>
+  <div id="slide4" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co/JWWNWxCZ/rosy-h-nguyen-5-Hrl-EGTsa-B4-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide3" className="btn btn-circle">❮</a>
+      <a href="#slide5" className="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide5" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co/Jw32FZ29/tron-le-E5zsok-LJk-VQ-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide4" class="btn btn-circle">❮</a>
-      <a href="#slide6" class="btn btn-circle">❯</a>
+  <div id="slide5" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co/Jw32FZ29/tron-le-E5zsok-LJk-VQ-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide4" className="btn btn-circle">❮</a>
+      <a href="#slide6" className="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide6" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co/TxQx0skR/olena-bohovyk-w-V0-Or-CO90e-I-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide5" class="btn btn-circle">❮</a>
-      <a href="#slide7" class="btn btn-circle">❯</a>
+  <div id="slide6" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co/TxQx0skR/olena-bohovyk-w-V0-Or-CO90e-I-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide5" className="btn btn-circle">❮</a>
+      <a href="#slide7" className="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide7" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co.com/b5hcS86q/nazanin-enayat-X1-ZILm-Aw3-K4-unsplash-1.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide6" class="btn btn-circle">❮</a>
-      <a href="#slide8" class="btn btn-circle">❯</a>
+  <div id="slide7" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co.com/b5hcS86q/nazanin-enayat-X1-ZILm-Aw3-K4-unsplash-1.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide6" className="btn btn-circle">❮</a>
+      <a href="#slide8" className="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide8" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co.com/YgtzTFS/pavlo-talpa-Mf-Go-Z-Qo-JFc-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide7" class="btn btn-circle">❮</a>
-      <a href="#slide9" class="btn btn-circle">❯</a>
+  <div id="slide8" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co.com/YgtzTFS/pavlo-talpa-Mf-Go-Z-Qo-JFc-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide7" className="btn btn-circle">❮</a>
+      <a href="#slide9" className="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide9" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co.com/5WKhh94H/edoardo-cuoghi-ufuchd-Zawng-unsplash.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide8" class="btn btn-circle">❮</a>
-      <a href="#slide10" class="btn btn-circle">❯</a>
+  <div id="slide9" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co.com/5WKhh94H/edoardo-cuoghi-ufuchd-Zawng-unsplash.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide8" className="btn btn-circle">❮</a>
+      <a href="#slide10" className="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide10" class="carousel-item relative w-full h-150">
-    <img src="https://i.ibb.co.com/RGL7nhGF/maxim-lozyanko-3d-Lrus3c-o-A-unsplash-1.jpg" class="w-full h-full object-cover" />
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-      <a href="#slide9" class="btn btn-circle">❮</a>
-      <a href="#slide1" class="btn btn-circle">❯</a>
+  <div id="slide10" className="carousel-item relative w-full h-150">
+    <img src="https://i.ibb.co.com/RGL7nhGF/maxim-lozyanko-3d-Lrus3c-o-A-unsplash-1.jpg" className="w-full h-full object-cover" />
+    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+      <a href="#slide9" className="btn btn-circle">❮</a>
+      <a href="#slide1" className="btn btn-circle">❯</a>
     </div>
   </div>
     </div>

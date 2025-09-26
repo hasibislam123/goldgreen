@@ -2,7 +2,8 @@ import {  } from 'react'
 import Navbar from './componet/navbar/Navbar'
 import Banner from './componet/Banner/Banner'
 import Herosection from './componet/herosection/herosection'
-import Cart from './componet/Cart-componet/cart'
+import Cart from './componet/PostBox/PostBox'
+import PostBox from './componet/PostBox/PostBox'
 
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
       {/* heroSection   */}
       <Herosection></Herosection>
 
-      <Cart></Cart>
+      <PostBox></PostBox>
       
     </>
   )
